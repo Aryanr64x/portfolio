@@ -32,7 +32,7 @@ export default {
 html{
   scroll-behavior: smooth;
 }
-   .title{
-            font-family: 'Expletus Sans', cursive;
-        }
+.title{
+        font-family: 'Expletus Sans', cursive;
+    }
 </style>

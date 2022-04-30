@@ -2,28 +2,23 @@
   <section class="min-h-screen flex items-center px-4 sm:px-20 xl:px-36">
     <div class="xl:basis-2/3">
       <div
-        class="text-3xl sm:text-5xl xl:text-left text-center title"
-        data-aos="fade-right"
-        data-aos-duration="500"
+        class="text-3xl sm:text-5xl xl:text-left text-center title animate__animated animate__fadeInLeft"
+
       >
         Hi, I design and develop websites that
         <span class="text-secondary"> ACTUALLY WORK! </span>
       </div>
       <div
-        class="text-xl mt-2 xl:text-left text-center font-light"
-        data-aos="fade-right"
-        data-aos-duration="500"
-        data-aos-delay="500"
+        class="text-xl mt-2 xl:text-left text-center font-light animate__animated animate__fadeInLeft animate__delay-1s"
+       
       >
         I help small businesses reach there true potential by designing and
         developing custom websites for them that are not only professional but
         also cost effective
       </div>
       <div
-        class="mt-8 flex xl:justify-start justify-center"
-        data-aos="fade-right"
-        data-aos-duration="500"
-        data-aos-delay="1000"
+        class="mt-8 flex xl:justify-start justify-center animate__animated animate__fadeInLeft animate__delay-2s"
+       
       >
         <a
           class="
