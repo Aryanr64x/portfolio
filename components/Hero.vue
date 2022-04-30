@@ -2,14 +2,14 @@
   <section class="min-h-screen flex items-center px-4 sm:px-20 xl:px-36">
     <div class="xl:basis-2/3">
       <div
-        class="text-3xl sm:text-5xl xl:text-left text-center title animate__animated animate__fadeInLeft"
+        class="text-3xl sm:text-5xl xl:text-left text-center title animate__animated     animate__flipInX"
 
       >
         Hi, I design and develop websites that
         <span class="text-secondary"> ACTUALLY WORK! </span>
       </div>
       <div
-        class="text-xl mt-2 xl:text-left text-center font-light animate__animated animate__fadeInLeft animate__delay-1s"
+        class="text-xl mt-2 xl:text-left text-center font-light animate__fadeInDown animate__animated "
        
       >
         I help small businesses reach there true potential by designing and
@@ -17,7 +17,7 @@
         also cost effective
       </div>
       <div
-        class="mt-8 flex xl:justify-start justify-center animate__animated animate__fadeInLeft animate__delay-2s"
+        class="mt-8 flex xl:justify-start justify-center animate__fadeInDown animate__animated"
        
       >
         <a

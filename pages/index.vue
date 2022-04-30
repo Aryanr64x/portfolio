@@ -29,10 +29,13 @@ export default {
 }
 </script>
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Expletus+Sans&display=swap');
 html{
   scroll-behavior: smooth;
 }
 .title{
-        font-family: 'Expletus Sans', cursive;
+          font-family: 'Expletus Sans', cursive;
     }
+    
+
 </style>
