@@ -1,6 +1,6 @@
 <template>
    <section class="px-4 sm:px-20 xl:px-36">
-        <div class="text-3xl sm:text-5xl text-center title" id="services">
+        <div class="text-3xl sm:text-5xl text-center font-expletussans" id="services">
             Services Provided
         </div>
         <div class="flex mt-8 lg:flex-row flex-col">

@@ -2,7 +2,7 @@
   <section class="min-h-screen flex items-center px-4 sm:px-20 xl:px-36">
     <div class="xl:basis-2/3">
       <div
-        class="text-3xl sm:text-5xl xl:text-left text-center bigtext animate__animated     animate__flipInX"
+        class="text-3xl sm:text-5xl xl:text-left text-center  font-expletussans animate__animated     animate__flipInX"
 
       >
         Hi, I design and develop websites that
@@ -65,9 +65,9 @@ export default {
 </script>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Expletus+Sans&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Expletus+Sans&display=swap');
 
 .bigtext{
       font-family: 'Expletus Sans', cursive;
-}
+} */
 </style>

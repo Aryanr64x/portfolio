@@ -1,6 +1,6 @@
 <template>
   <section class="mt-48 px-4 sm:px-20 xl:px-36">
-        <div class="text-3xl sm:text-5xl text-center title">
+        <div class="text-3xl sm:text-5xl text-center font-expletussans">
             Latest Works
         </div>
         <div class="mt-8 grid grid-cols-1   lg:grid-cols-2 gap-y-4">

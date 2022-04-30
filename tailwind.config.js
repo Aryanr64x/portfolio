@@ -9,7 +9,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'expletussans': ['Expletus+Sans', 'display'] 
+        'expletussans': ['Expletus Sans', 'cursive'] 
       },
     },
     colors:{

@@ -1,6 +1,6 @@
 <template>
    <section class="mt-44">
-            <div class="text-center text-3xl sm:text-5xl title" ref="contact" id="contact">
+            <div class="text-center text-3xl sm:text-5xl font-expletussans" ref="contact" id="contact">
                Wanna connect with me ?
             </div>
             <div class="flex mt-8 px-4 sm:px-20 xl:px-36 lg:flex-row flex-col" >
